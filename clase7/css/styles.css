@@ -1,0 +1,42 @@
+#logo {
+    background-color: #e5e5e5;
+    text-align: center;
+    
+
+}
+
+h1 {
+    background-color: #c4c4c4;
+    color: #005677;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h3 {
+    background-color: #c4c4c4;
+    color: #005677;
+    text-transform: uppercase
+
+}
+
+.data {
+    font-weight: bold;
+}
+
+.date {
+    font-weight: bold;
+}
+
+.date2 {
+    font-weight: bold;
+}
+
+footer {
+    background-color: #005677;
+    text-align: center;
+    color: white;
+}
+
+.end {
+    text-align: center;
+}
